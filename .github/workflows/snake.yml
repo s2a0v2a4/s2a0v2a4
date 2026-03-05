@@ -92,6 +92,10 @@ jobs:
 
           git config --global user.email "github-actions@github.com"
 
+          ls -la dist/
+
+          git status
+
           git add dist/
 
           if git diff --staged --quiet; then
@@ -102,7 +106,7 @@ jobs:
 
             git commit -m "Add generated snake animations"
 
-            git push origin output
+            git push
 
           fi
 

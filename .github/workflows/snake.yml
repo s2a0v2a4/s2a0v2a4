@@ -76,3 +76,29 @@ jobs:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
+
+      # Step 3: Commit and push the generated files
+
+      - name: Commit generated files
+
+        run: |
+
+          git config --global user.name "github-actions"
+
+          git config --global user.email "github-actions@github.com"
+
+          git add dist/
+
+          if git diff --staged --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit -m "Add generated snake animations"
+
+            git push origin output
+
+          fi
+

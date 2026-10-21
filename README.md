@@ -1,13 +1,9 @@
-```html
+
 <div align="center">
 
-<a href="https://github.com/DEIN-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=850&height=60&lines=Security+Research;Ethical+Hacking;Cyber+Defense;Building+a+Safer+Digital+World" alt="Cybersecurity Typing Animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=500&color=00F5D4&center=true&vCenter=true&width=800&height=60&lines=Security+Research;Ethical+Hacking;Cyber+Defense" alt="Cybersecurity Animation" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-080B12?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF286B?style=for-the-badge" />
 
@@ -19,10 +15,6 @@
 
 ### `>_ BUILDING A SAFER DIGITAL WORLD.`
 
-*Exploring vulnerabilities. Strengthening systems. Securing the future.*
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,c,cpp,rust,js,docker,git,github&theme=dark" />
 
 <br/><br/>
@@ -33,4 +25,3 @@
 <img src="https://img.shields.io/badge/Digital_Forensics-FF286B?style=flat-square" />
 
 </div>
-```

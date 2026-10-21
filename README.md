@@ -5,11 +5,10 @@
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=60&letterSpacing=3px&lines=%E2%96%B8+Security+Research;%E2%96%B8+Ethical+Hacking;%E2%96%B8+Cyber+Defense;%E2%96%B8+Penetration+Testing" alt="Cybersecurity Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=850&height=60&letterSpacing=2px&lines=%E2%96%B8+Building+Systems%2C+Not+Just+Websites;%E2%96%B8+Cyber+Defense+%26+Security+Research;%E2%96%B8+Turning+Threats+Into+Insights;%E2%96%B8+Securing+What+Matters+Most;%E2%96%B8+Engineering+Trust%2C+Line+by+Line" alt="Cybersecurity Animation" />
 </a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
 <!-- ═══════════════ BADGES ═══════════════ -->
 <p>
   <img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-000000?style=for-the-badge&labelColor=000000" alt="Focus" />

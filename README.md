@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">
   <code>Security Research · Ethical Hacking · Cyber Defense</code>
 </h1>
@@ -54,4 +54,3 @@ Exploring, analyzing and strengthening digital systems through
 <p align="center">
   <i>Learn continuously. Test ethically. Secure everything.</i>
 </p>
-```

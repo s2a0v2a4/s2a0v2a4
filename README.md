@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00DDB3,50:071A2C,100:FF286B&text=DEVELOPMENT & CYBERSECURITY&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&stroke=00F5D4&strokeWidth=1&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=66&descSize=17" alt="Cybersecurity Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00DDB3,50:071A2C,100:FF286B&text=DEVELOPMENT%20%26amp%3B%20CYBERSECURITY&fontSize=42&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&stroke=00F5D4&strokeWidth=1&desc=SOFTWARE%20ENGINEERING%20%7C%20SECURITY%20RESEARCH&descAlignY=66&descSize=17" alt="Development & Cybersecurity Banner" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="#">
@@ -9,18 +9,9 @@
 </a>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-<!-- ═══════════════ BADGES ═══════════════ -->
-<p>
-  <img src="https://img.shields.io/badge/%E2%97%89%20FOCUS-000000?style=for-the-badge&labelColor=000000" alt="Focus" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge&logo=hackthebox&logoColor=071A2C&labelColor=071A2C" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF286B?style=for-the-badge&labelColor=071A2C" alt="Status Active" />
-</p>
 
 <!-- ═══════════════ TAGLINE ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=2500&center=true&vCenter=true&width=600&height=45&lines=%3E_+BUILDING+A+SAFER+DIGITAL+WORLD." alt=">_ BUILDING A SAFER DIGITAL WORLD." />
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=2500&center=true&vCenter=true&width=700&height=45&lines=%3E_+ENGINEERING+SOFTWARE+THE+WORLD+CAN+TRUST." alt=">_ ENGINEERING SOFTWARE THE WORLD CAN TRUST." />
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF286B,50:071A2C,100:00DDB3&animation=twinkling" alt="Footer" />
 

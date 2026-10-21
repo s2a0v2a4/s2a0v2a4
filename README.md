@@ -1,47 +1,57 @@
-### 🔐 Cybersecurity & Ethical Hacking
+```html
+<h1 align="center">
+  <code>Security Research · Ethical Hacking · Cyber Defense</code>
+</h1>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ACTIVE-FF286B?style=for-the-badge" />
+</p>
 
-### 🛡️ Security Domains
+<div align="center">
 
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-2E8B57?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web_Security-00599C?style=for-the-badge)
-![Network Security](https://img.shields.io/badge/Network_Security-003B57?style=for-the-badge)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-6A5ACD?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-B22222?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-36454F?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF-FF4500?style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00DDB3,50:00BFA5,100:FF286B&text=CYBERSECURITY&fontSize=55&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=75&descSize=15" />
 
-### 💻 Programming & Scripting
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### `>_ BUILDING A SAFER DIGITAL WORLD.`
 
-### 🌐 Infrastructure & Cloud Security
+Exploring, analyzing and strengthening digital systems through  
+**ethical hacking, penetration testing and security research.**
 
-![AWS](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Security-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Security-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
-### 🔎 Security Learning & Practice
+</div>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![PortSwigger Academy](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
+---
+
+<h3 align="center">⚡ TECH STACK & SECURITY TOOLS</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,c,cpp,rust,js,docker,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+<h3 align="center">🛡️ AREAS OF INTEREST</h3>
+
+<p align="center">
+  <code>Penetration Testing</code> ·
+  <code>Network Security</code> ·
+  <code>Web Security</code> ·
+  <code>Digital Forensics</code> ·
+  <code>Incident Response</code>
+</p>
+
+<p align="center">
+  <i>Learn continuously. Test ethically. Secure everything.</i>
+</p>
+```

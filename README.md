@@ -3,13 +3,13 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=60&lines=Security+Research;Ethical+Hacking;Cyber+Defense;Penetration+Testing" alt="Cybersecurity Animation" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF286B?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=60&lines=Security+Research;Ethical+Hacking;Cyber+Defense;Penetration+Testing" alt="Cybersecurity Animation" />
 
 <br/>
 

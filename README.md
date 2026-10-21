@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg" />
+  <img width="100%" alt="s2a0v2a4 – Berlin" src="banner_light.svg" />
+</picture>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00DDB3,50:071A2C,100:FF286B&text=CYBERSECURITY&fontSize=62&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=ETHICAL%20HACKING%20%E2%80%A2%20SECURITY%20RESEARCH%20%E2%80%A2%20WEB%20DEVELOPMENT&descAlignY=62&descSize=15" alt="Cybersecurity Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=600&height=50&lines=%3E_+Security+Research;%3E_+Ethical+Hacking;%3E_+Penetration+Testing;%3E_+Cyber+Defense" alt="Typing Animation" />

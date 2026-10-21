@@ -12,10 +12,6 @@
 
 <br/>
 
-<img width="100%" src="banner.svg" alt="s2a0v2a4 – Berlin" />
-
-<br/>
-
 ### >_ BUILDING A SAFER DIGITAL WORLD.
 
 <br/>

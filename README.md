@@ -15,9 +15,6 @@
 
 ### `>_ BUILDING A SAFER DIGITAL WORLD.`
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,c,cpp,rust,js,docker,git,github&theme=dark" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Penetration_Testing-00DDB3?style=flat-square" />
 <img src="https://img.shields.io/badge/Network_Security-00BFFF?style=flat-square" />

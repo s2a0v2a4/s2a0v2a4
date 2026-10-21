@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00DDB3,50:071A2C,100:FF286B&text=CYBERSECURITY&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&stroke=00F5D4&strokeWidth=1&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=66&descSize=17" alt="Cybersecurity Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00DDB3,50:071A2C,100:FF286B&text=DEVELOPMENT & CYBERSECURITY&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&stroke=00F5D4&strokeWidth=1&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=66&descSize=17" alt="Cybersecurity Banner" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="#">

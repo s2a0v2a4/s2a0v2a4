@@ -1,5 +1,7 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00DDB3,50:071A2C,100:FF286B&text=CYBERSECURITY&fontSize=55&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=68&descSize=16" alt="Cybersecurity Banner" />
 
+<br/>
 
 <img src="https://img.shields.io/badge/FOCUS-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge" />

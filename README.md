@@ -8,19 +8,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Berlin,_DE-071A2C?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Web_Development-00DDB3?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Cybersecurity-FF286B?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Open_to_work-0D1117?style=for-the-badge&logo=checkmarx&logoColor=00F5D4" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=s2a0v2a4&label=PROFILE+VIEWS&color=00ddb3&style=flat-square" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00DDB3,100:FF286B" />
-
 ## `$ whoami`
 
 ```ts

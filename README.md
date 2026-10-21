@@ -17,7 +17,7 @@
 </p>
 
 <!-- ═══════════════ TAGLINE ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=2500&center=true&vCenter=true&width=600&height=45&lines=%3E_+BUILDING+A+SAFER+DIGITAL+WORLD." alt=">_ BUILDING A SAFER DIGITAL WORLD." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=2500&center=true&vCenter=true&width=600&height=45&lines=%3E_+BUILDING+A+SAFER+DIGITAL+WORLD." alt=">_ BUILDING A SAFER DIGITAL WORLD." />
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 

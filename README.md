@@ -1,8 +1,5 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00DDB3,50:071A2C,100:FF286B&text=CYBERSECURITY&fontSize=55&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=ETHICAL%20HACKING%20%7C%20SECURITY%20RESEARCH&descAlignY=68&descSize=16" alt="Cybersecurity Banner" />
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=600&color=00F5D4&center=true&vCenter=true&width=850&height=60&lines=Security+Research;Ethical+Hacking;Cyber+Defense;Penetration+Testing" alt="Cybersecurity Animation" />
 
 <br/>

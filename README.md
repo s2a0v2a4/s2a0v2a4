@@ -6,6 +6,6 @@
 <img src="https://img.shields.io/badge/CYBERSECURITY-00DDB3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF286B?style=for-the-badge" />
 <br/>
-###>_ BUILDING A SAFER DIGITAL WORLD.
+>_ BUILDING A SAFER DIGITAL WORLD.
 <br/>
 </div>
